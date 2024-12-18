@@ -226,7 +226,3 @@ plt.savefig('combined_plot.jpg')
 plt.show()
 ```
 
----
-
-Happy Visualizing!
-
